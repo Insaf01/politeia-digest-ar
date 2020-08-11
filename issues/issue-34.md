@@ -74,7 +74,7 @@
 
 حقوق الصورة: sænder@
 
-النسخة الأصليةللعدد 34 من مجلة موجز بوليتيا متوفرة على هذا الرابط [هنا](https://blockcommons.red/politeia-digest/issue034/)
+النسخة الأصلية للعدد 34 من مجلة موجز بوليتيا متوفرة على هذا الرابط [هنا](https://blockcommons.red/politeia-digest/issue034/)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
 
