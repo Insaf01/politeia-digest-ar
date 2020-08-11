@@ -58,7 +58,7 @@
 
 ## المقترحات المعتمدة
 
-**[العلاقات العامة من Monde للعلاقات العامة - المرحلة الثانية(https://proposals.decred.org/proposals/c81926b1958e54b2f294085da4ab03e9a63223f8ccd32e74a43493bf62de6185)**
+**[العلاقات العامة من Monde للعلاقات العامة - المرحلة الثانية](https://proposals.decred.org/proposals/c81926b1958e54b2f294085da4ab03e9a63223f8ccd32e74a43493bf62de6185)**
 
 نشر في 10 يوليوز بواسطة lindseymmc | يضم 21 تعليقا (4+)
 
