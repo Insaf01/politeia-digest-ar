@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # مجلة موجز بوليتيا -العدد 35 - 9-22 غشت 2020
 
 ![Image credit: @sænder](../img/035-title.png)
@@ -62,5 +60,3 @@
 النسخة الأصلية للعدد 35 من مجلة موجز بوليتيا متوفرةعلى هذا الرابط [هنا](https://blockcommons.red/politeia-digest/issue035/)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
-
-</div>
