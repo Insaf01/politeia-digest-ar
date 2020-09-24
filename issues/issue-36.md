@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # مجلة موجز بوليتيا -العدد 36 - 23 غشت - 15 شتنبر 2020
 
 ![Image credit: @sænder](../img/036-title.png)
@@ -55,5 +53,3 @@
 النسخة الأصلية للعدد 36 من مجلة موجز بوليتيا متوفرةعلى هذا الرابط [هنا](https://www.blockcommons.red/politeia-digest/issue036/)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
-
-</div>
